@@ -1,0 +1,13 @@
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\bin\Debug\NASA_Watney.exe
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\bin\Debug\NASA_Watney.pdb
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\NASA_Watney.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\NASA_Watney_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\NASA_Watney_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\NASA_Watney.g.resources
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\NASA_Watney.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\NASA_Watney.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\NASA_Watney.exe
+E:\Dropbox\!Coding\All_in_one\NASA_Watney\NASA_Watney\obj\Debug\NASA_Watney.pdb

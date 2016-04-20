@@ -1,0 +1,18 @@
+﻿<Window x:Class="NASA_Watney.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NASA_Watney"
+        mc:Ignorable="d"
+        Title="Martian Communications" Height="632" Width="589" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="Transmit_Button" Content="Start transmission!" HorizontalAlignment="Left" Margin="10,540,0,0" VerticalAlignment="Top" Width="555" Click="Transmit_Button_Click" Height="36" FontWeight="Bold" FontSize="18.667"/>
+        <ContentControl x:Name="Image_ContentControl" Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="370" Width="555"/>
+        <TextBox x:Name="NASA_Message_TextBox" HorizontalAlignment="Left" Height="43" Margin="130,417.05,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="435"/>
+        <Label x:Name="label" Content="NASA's message:" HorizontalAlignment="Left" Margin="10,417.05,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ReceivedBytes_TextBox" HorizontalAlignment="Left" Height="43" Margin="130,475,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="435" IsReadOnly="True"/>
+        <Label x:Name="label_Copy" Content="Received bytes:" HorizontalAlignment="Left" Margin="10,475,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
